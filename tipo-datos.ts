@@ -1,5 +1,5 @@
 // impresion en consola
-console.log('Tipos de datos');
+console.log('Tipos de datos:');
 
 //tipos numericos
 var numerito: number = 15;

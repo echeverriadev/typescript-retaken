@@ -46,3 +46,14 @@ switch:
 
 ternario:
     (condicion)? (sentencias true):(sentencias false)
+
+===================================
+Ciclos: estructuras que repiten segun una condición cierto bloque de código
+for:
+    for(var cantidad_a_repetir=0; cantidad_a_repetir <= 5; cantidad_a_repetir++){ sentencias }
+
+for of:
+    for(let item of items){sentencias}
+
+for in:
+    for(let index in array){ sentencias }
