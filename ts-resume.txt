@@ -1,0 +1,48 @@
+typescript es un superset de js
+
+===================================
+Tipos de datos:
+*number     => numericos
+*string     => textos
+*boolean    => booleanos (true, false)
+*object     => objetos {}
+*interface  => interfaces, trabaja como un modelo de objeto
+*any        => any, hace que una variable sea de tipo de dinamico, es decir, que la variable puede tomar cualquier valor
+*array      => arreglos
+*enum       => enum, trabaja en forma de etiquetas (como clasificador), es realmente un objeto
+
+===================================
+Condicionales:
+if:   
+    if( condición ){ 
+        si la condicion es true, aplica estas sentencias 
+    }else{
+        si la condicion es falsa, aplica esto otro
+    }
+
+if anidado:
+    if(condicion){
+        sentencias
+    }else if(condicion){
+        sentencias 2
+        }else{
+            sentencias 3
+            }
+
+switch:
+    switch(expression){
+        case 'x': {
+            sentencias;
+            break;
+        };
+        case 'y':{ 
+            sentencias;
+            break;
+        }
+        default:{
+            sentencias
+        }
+    }
+
+ternario:
+    (condicion)? (sentencias true):(sentencias false)
