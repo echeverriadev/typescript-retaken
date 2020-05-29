@@ -1,1 +1,1 @@
-console.log('Funciones:');
+console.log('Classes');

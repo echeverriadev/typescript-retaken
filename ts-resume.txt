@@ -57,3 +57,14 @@ for of:
 
 for in:
     for(let index in array){ sentencias }
+
+===================================
+Funciones: Metodos que cumplen ciertas actividades dentro del producto de software
+simples:
+    function nombreFuncion(){ setencias (voids) }
+
+con parametros:
+    function nombreFuncion(parametro:tipo_de_dato){ setencias que usen el parametro (voids) }
+
+con retorno:
+    function nombreFuncion(parametro:tipo_de_dato): tipo_de_dato_retornado{ setencias con return }
