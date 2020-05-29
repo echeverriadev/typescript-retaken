@@ -32,3 +32,5 @@ for (let item of personas) {
 for (let index in personas) {
   console.log(index);
 }
+
+console.log('==================================');

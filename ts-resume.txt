@@ -8,7 +8,7 @@ Tipos de datos:
 *object     => objetos {}
 *interface  => interfaces, trabaja como un modelo de objeto
 *any        => any, hace que una variable sea de tipo de dinamico, es decir, que la variable puede tomar cualquier valor
-*array      => arreglos
+*array      => arreglos (push, splice,find)
 *enum       => enum, trabaja en forma de etiquetas (como clasificador), es realmente un objeto
 
 ===================================
@@ -68,3 +68,8 @@ con parametros:
 
 con retorno:
     function nombreFuncion(parametro:tipo_de_dato): tipo_de_dato_retornado{ setencias con return }
+
+
+===================================
+Clases: las clases son modelos de información, en ella se ven presente atributos, metodos o funciones y se define su visualizacion(public, private)
+estas clases tienen un metodo especial llamado constructor, el constructor es quien crea una instancia de una clase y define que cosa se va a ejecutar en el momento de crear un objeto de esa clase    

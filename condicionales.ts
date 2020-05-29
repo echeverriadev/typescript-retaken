@@ -40,3 +40,5 @@ switch (numberEx) {
 booleanito //si es true
   ? console.log('booleanito es true') // imprimir si es true
   : console.log('booleanito es false'); // imprimir si es false
+
+console.log('==================================');
